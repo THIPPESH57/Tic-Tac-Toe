@@ -1,6 +1,27 @@
-# Getting Started with Create React App
+# Developed Tic-Tac-Toe Game using React
+
+![image](https://github.com/THIPPESH57/Tic-Tac-Toe/assets/118977559/3cd7f97e-7594-46fb-9194-1df2a393c16e)
+
+
+This repository contains a Tic-Tac-Toe game implemented using React, React Bootstrap, and React Confetti. The game provides a classic experience of Tic-Tac-Toe with an intuitive user interface built using React components. React Bootstrap is used for styling components, providing a modern and responsive design. Additionally, React Confetti adds a delightful visual element to celebrate the victory of a player, enhancing the overall gaming experience. With this project, users can enjoy playing Tic-Tac-Toe while exploring the capabilities of React and its associated libraries.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+# required packages
+### npx create-react-app
+
+To develop the react application
+
+### npm i react-bootstrap
+
+To style the react components
+
+### npm i react- confetti
+
+To apply effects When someone wins the Game
+
+
+## run on your localhost:3000 
 
 ## Available Scripts
 
